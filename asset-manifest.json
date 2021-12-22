@@ -1,13 +1,13 @@
 {
-  "main.css": "/Ugana20/courses.git/static/css/main.dc71daae.chunk.css",
-  "main.js": "/Ugana20/courses.git/static/js/main.102c9a47.chunk.js",
-  "main.js.map": "/Ugana20/courses.git/static/js/main.102c9a47.chunk.js.map",
-  "static/js/1.f1114e38.chunk.js": "/Ugana20/courses.git/static/js/1.f1114e38.chunk.js",
-  "static/js/1.f1114e38.chunk.js.map": "/Ugana20/courses.git/static/js/1.f1114e38.chunk.js.map",
-  "runtime~main.js": "/Ugana20/courses.git/static/js/runtime~main.7ee8fe70.js",
-  "runtime~main.js.map": "/Ugana20/courses.git/static/js/runtime~main.7ee8fe70.js.map",
-  "static/css/main.dc71daae.chunk.css.map": "/Ugana20/courses.git/static/css/main.dc71daae.chunk.css.map",
-  "index.html": "/Ugana20/courses.git/index.html",
-  "precache-manifest.55adb53d075548cb4d72a711780ffe7f.js": "/Ugana20/courses.git/precache-manifest.55adb53d075548cb4d72a711780ffe7f.js",
-  "service-worker.js": "/Ugana20/courses.git/service-worker.js"
+  "main.css": "/courses/static/css/main.dc71daae.chunk.css",
+  "main.js": "/courses/static/js/main.102c9a47.chunk.js",
+  "main.js.map": "/courses/static/js/main.102c9a47.chunk.js.map",
+  "static/js/1.f1114e38.chunk.js": "/courses/static/js/1.f1114e38.chunk.js",
+  "static/js/1.f1114e38.chunk.js.map": "/courses/static/js/1.f1114e38.chunk.js.map",
+  "runtime~main.js": "/courses/static/js/runtime~main.b0914f74.js",
+  "runtime~main.js.map": "/courses/static/js/runtime~main.b0914f74.js.map",
+  "static/css/main.dc71daae.chunk.css.map": "/courses/static/css/main.dc71daae.chunk.css.map",
+  "index.html": "/courses/index.html",
+  "precache-manifest.cf33eee8ea366030e594d3da4fde954b.js": "/courses/precache-manifest.cf33eee8ea366030e594d3da4fde954b.js",
+  "service-worker.js": "/courses/service-worker.js"
 }
