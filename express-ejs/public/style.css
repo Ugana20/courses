@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(78, 192, 182);
+    color: white;
+}
+
+.path {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+.path:hover {
+    color: rgb(0, 0, 0);
+}
+
+.aldaa {
+    color: crimson;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 500px;
+    font-weight: 900;
+}
+
+
+
+.pos {
+    display: flex;
+}
